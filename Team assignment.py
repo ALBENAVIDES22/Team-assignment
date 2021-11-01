@@ -15,6 +15,15 @@ print("4. Have dinner")
 print("5. Take a copy")
 print("0. Exit")
 
+'''
+This program was supposed to be uploaded to the D2L with an individual team evaluation form per each member.
+
+
+-2 [No comments in your program
+    For the invalid options(other than 0-5), your program needs to display a different message.]
+
+Use a lopp if you want this program to be executed repeatedly. extra point: 1 point out of 4 points
+'''
 command = int(input("Enter command"))
 
 if command == 1:
